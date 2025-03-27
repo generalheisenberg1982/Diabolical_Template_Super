@@ -1,6 +1,13 @@
-Just general documentation and research compiled here.
+※Diabolical Research and Documentation※
 
-Research on Motor
+※Documentation※
+
+Running Program
+- When I was uploading the PROS files, some 4 files were not accepted by GitHUB, why? I have no idea. So um- check that.
+
+※Research※
+
+Research on Motors
 - Purdue SIGBots Wiki https://wiki.purduesigbots.com/vex-electronics/vex-electronics/motors
 - VEX Documentation https://kb.vex.com/hc/en-us/articles/360044325872-Understanding-V5-Smart-Motor-11W-Performance
 - Limiting Voltage https://www.vexforum.com/t/how-does-the-decreased-current-affect-the-robot-when-using-more-than-8-motors/72650/4
