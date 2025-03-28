@@ -1,16 +1,19 @@
 ※Diabolical Research and Documentation※
 
-※Documentation※
+※Diabolical Tasks※
 
 a little to-do for fun:
 - come up with a cooler name :)
 - add pid class and utilities
 - start coding movement functions
+- basic movement, arc turns , gravitation turning? ooooo la la
 - code record and replay system (bring over from old project)
 - try coding odom!
+- if we can manage, P U R E   P E R S U I T
 
 - also whenever we code something, lets plan it out and think properly so we can code it to be optimized the first-ish time LOL
 
+※Documentation※
 
 Running Program
 - When I was uploading the PROS files, some 4 files were not accepted by GitHUB, why? I have no idea. So um- check that.
